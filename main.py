@@ -1,5 +1,5 @@
 import deck as d
-
+#Jordan love big DECKSSSSSS!!!!!!
 deck = d.make_deck()
 player1 = []
 player2 = []
