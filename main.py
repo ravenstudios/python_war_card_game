@@ -12,11 +12,14 @@ def deal_hands():
         deck.pop(0)
 
 
+def play_game():
+    pass
 
 def main():
 
     d.shuffle_deck(deck)
     deal_hands()
-    print(len(deck), len(player1), len(player2))
+
+
 if __name__ == "__main__":
     main()
